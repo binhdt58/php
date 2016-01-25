@@ -13,7 +13,7 @@ and open the template in the editor.
         
         <?php
         // put your code here
-        echo "<font color=red face=tahoma size=20>Welcome to VietNam <font>";
+        echo "<font color=red face=tahoma size=20>Ho ten: Dang Tran Binh \n Ngay sinh : 21-10-1995 \n Dia chi: Ha Noi So thich: doc truyen tranh , nghe nhac ^^  <font>";
         ?>
     </body>
 </html>
