@@ -10,7 +10,34 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        
+        <h1>Ho ten: Dang Tran Binh</h1>
+		<div class="my-information">			
+			<table>
+				<tr>
+					<td width="40%" height="1px" valign="top">
+						<div>
+							<p>
+								Ngay sinh : 21-10-1995<br>
+								Dia chi: Ha Noi<br>
+								So thich: doc truyen tranh , nghe nhac ^^<br>
+								Doi net ve ban than: Sinh vien nam 3 Truong Dai hoc Cong Nghe- DHQGHN. Than hinh hoi map, chua duoc cao, hien lanh, de bao, it noi :)))
+								
+							</p>
+							
+						</div>
+					</td>
+					<td>
+						<img src="DSC00319.JPG" width = "25%">
+					</td>
+				</tr>			
+			</table>
+			
+			
+		</div>
+		
+		
+		
+		
         <?php
         // put your code here
 		
