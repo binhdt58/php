@@ -7,33 +7,19 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Thong tin ca nhan</title>
     </head>
     <body>
-        <h1>Ho ten: Dang Tran Binh</h1>
-		<div class="my-information">			
-			<table>
-				<tr>
-					<td width="40%" height="1px" valign="top">
-						<div>
-							<p>
-								Ngay sinh : 21-10-1995<br>
-								Dia chi: Ha Noi<br>
-								So thich: doc truyen tranh , nghe nhac ^^<br>
-								Doi net ve ban than: Sinh vien nam 3 Truong Dai hoc Cong Nghe- DHQGHN. Than hinh hoi map, chua duoc cao, hien lanh, de bao, it noi :)))
-								
-							</p>
-							
-						</div>
-					</td>
-					<td>
-						<img src="DSC00319.JPG" width = "25%">
-					</td>
-				</tr>			
-			</table>
-			
-			
-		</div>
+        <table cellpadding = "5" width = "1000">
+			<tr><td>
+				<img src = "DSC00319.JPG" align = "left" width = 200>
+			<td>
+				<h1>Dang Tran Binh</h1> <br>
+				<p><b>Ngay sinh :</b> 21-10-1995  <br> 
+				<p><b>Dia chi : </b> Ha Noi  <br> 
+				<p><b>So thich :</b>  doc truyen tranh , nghe nhac ^^  <br> 
+				<p><b>Doi net ve ban than :</b> Sinh vien nam 3 Truong Dai hoc Cong Nghe- DHQGHN. Than hinh hoi map, chua duoc cao, hien lanh, de bao, it noi :)))  <br> 
+
 		
 		
 		
@@ -41,12 +27,8 @@ and open the template in the editor.
         <?php
         // put your code here
 		
-        echo "<font color=green face=tahoma size=5>Ho ten: Dang Tran Binh  <font> </br>";
-		echo "<font color=green face=tahoma size=5>Ngay sinh : 21-10-1995 <font> </br>";
-		echo "<font color=green face=tahoma size=5>Dia chi: Ha Noi <font> </br>";
-		echo "<font color=green face=tahoma size=5>So thich: doc truyen tranh , nghe nhac ^^  <font> </br>";
-		echo "<font color=green face=tahoma size=5>Doi net ve ban than: Sinh vien nam 3 Truong Dai hoc Cong Nghe- DHQGHN. Than hinh hoi map, chua duoc cao, hien lanh, de bao, it noi :))) <font> </br>";
+       
         ?>
-		<img src="DSC00319.JPG" width="260" height="392" alt="1"/>
+		
     </body>
 </html>
