@@ -7,24 +7,33 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Thong tin ca nhan</title>
+        <link rel="stylesheet" type="text/css" href="/test.css" />
+        <title>Thông tin cá nhân</title>
     </head>
     <body>
-        <h1> Information </h1>
+        
         <div class = 'info'>
         <table cellpadding = "5" width = "1000">
 			<tr><td>
 				<img src = "DSC00319.JPG" align = "left" width = 200>
 			<td>
-				<h1>Dang Tran Binh</h1> <br>
-				<p><b>Ngay sinh :</b> 21-10-1995  <br> 
-				<p><b>Dia chi : </b> Ha Noi  <br> 
-				<p><b>So thich :</b>  doc truyen tranh , nghe nhac ^^  <br> 
-				<p><b>Doi net ve ban than :</b> Sinh vien nam 3 Truong Dai hoc Cong Nghe- DHQGHN. Than hinh hoi map, chua duoc cao, hien lanh, de bao, it noi :)))  <br> 
+				<h1>Đặng Trần Bình</h1> <br>
+				<p><b>Ngày sinh :</b> 21-10-1995  <br> 
+				<p><b>Địa chỉ : </b> Hà nội  <br> 
+				<p><b>Sở thích :</b>  Đọc truyện tranh, nghe nhac ^^  <br> 
+				<p><b>Đôi nét về bản thân :</b>Sinh viên năm 3 Trường Đại học công nghệ - DHQGHN.   <br> 
                           
         
                                     </div>
-        <h2> Exercises </h2>
+        </table>
+            <h3> Kỹ năng </h3>
+            <p><b> C++ </b> <br>
+            <p><b> Java </b> <br>
+            <p><b> Python </b> <br>
+            <h4> Liên lạc </h4>
+            <p> Email : binhdangtran21@gmail.com <br>
+            
+            <h2> Bài tập </h2>
             <ul>
                 <li><h3>7 Days of JavaScript Week 1: <small><a href="/image/ex.html">Click to view!</a></small></h3></li>
  	    </ul>
