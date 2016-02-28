@@ -16,7 +16,9 @@ and open the template in the editor.
 }
 
 body{
-	background-color: #cccc64;
+	//background-color: #cccc64;
+        background-image: url('/background.jpg');
+        background-repeat: repeat;
 }
 h2,h3,h4{
 	color:green;
