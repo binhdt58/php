@@ -36,6 +36,7 @@ and open the template in the editor.
             <h2> Bài tập </h2>
             <ul>
                 <li><h3>7 Days of JavaScript Week 1: <small><a href="/image/ex.html">Click to view!</a></small></h3></li>
+                <li><h3>7 Days of JavaScript Week 2: <small><a href="/image/jsw2.html">Click to view!</a></small></h3></li>
  	    </ul>
 		
 		
